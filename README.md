@@ -13,9 +13,11 @@ This project aims to help new TDD learners quickly get started with practical ex
 - Step-by-step TDD guidance
 - Multiple language implementations
 
-## 🔥 What's New: Spring Boot TDD Problems!
+## 🔥 What's New: FastAPI & Spring Boot TDD Problems!
 
-We've added a comprehensive **Spring Boot TDD** section with problems specifically designed for web development, REST APIs, and microservices testing!
+We've added comprehensive framework-specific TDD sections:
+- **FastAPI TDD** - Modern Python API development with async patterns
+- **Spring Boot TDD** - Enterprise Java web development and microservices
 
 ## 📊 Difficulty Levels
 
@@ -41,8 +43,14 @@ Advanced problems for experienced TDD practitioners:
 - Performance considerations
 - Advanced design patterns
 
+### 🐍 FastAPI Problems
+Modern Python API development with TDD:
+- **Beginner**: REST APIs, authentication, file uploads
+- **Intermediate**: Database integration, async patterns, WebSockets
+- **Advanced**: Microservices, event-driven architecture, distributed systems
+
 ### 🌐 Spring Boot Problems
-Framework-specific TDD problems for web development:
+Enterprise Java web development with TDD:
 - **Beginner**: REST APIs, database integration, validation
 - **Intermediate**: Complex business logic, security, caching
 - **Advanced**: Microservices, distributed systems, event-driven architecture
@@ -56,6 +64,13 @@ Framework-specific TDD problems for web development:
 4. Write your first failing test
 5. Follow the Red-Green-Refactor cycle
 6. Compare with provided solutions
+
+### For FastAPI TDD
+1. Start with [FastAPI Beginner Problems](fastapi/beginner/)
+2. Learn API testing with TestClient and httpx
+3. Master async testing patterns
+4. Practice database integration with SQLAlchemy
+5. Build microservices with event-driven architecture
 
 ### For Spring Boot TDD
 1. Start with [Spring Boot Beginner Problems](spring-boot/beginner/)
@@ -71,12 +86,16 @@ tdd-practice/
 ├── easy/           # Easy level problems
 ├── medium/         # Medium level problems
 ├── hard/           # Hard level problems
+├── fastapi/        # FastAPI specific TDD problems
+│   ├── beginner/   # FastAPI beginner problems
+│   ├── intermediate/ # FastAPI intermediate problems
+│   └── advanced/   # FastAPI advanced problems
 ├── spring-boot/    # Spring Boot specific TDD problems
 │   ├── beginner/   # Spring Boot beginner problems
 │   ├── intermediate/ # Spring Boot intermediate problems
 │   └── advanced/   # Spring Boot advanced problems
 ├── solutions/      # Reference solutions
-└── docs/          # Additional documentation
+└── docs/          # Additional documentation and guides
 ```
 
 ## 🌟 Contributing
