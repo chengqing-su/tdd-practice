@@ -7,6 +7,11 @@ These problems are designed for developers with some TDD experience who want to 
 1. **[Banking System](01-banking-system.md)** - Account management, transfers, and transaction history
 2. **[Todo List Manager](02-todo-list.md)** - Task management with filtering, priorities, and due dates
 3. **[Shopping Cart System](03-shopping-cart.md)** - E-commerce cart with discounts, taxes, and checkout
+4. **[Library Management System](04-library-system.md)** - Book borrowing, returns, fines, and member management
+5. **[URL Shortener Service](05-url-shortener.md)** - Link shortening with analytics and expiration
+6. **[File Storage System](06-file-storage-system.md)** - File upload, versioning, sharing, and permissions
+7. **[Chat System](07-chat-system.md)** - Real-time messaging with rooms, presence, and notifications
+8. **[Task Scheduler](08-task-scheduler.md)** - Job scheduling with dependencies, monitoring, and cron support
 
 ## What You'll Learn
 
@@ -58,6 +63,11 @@ Ready for more challenges? Move on to [Hard Level](../hard/) problems that invol
 1. **[银行系统](01-banking-system.md)** - 账户管理、转账和交易历史
 2. **[待办事项管理器](02-todo-list.md)** - 带筛选、优先级和截止日期的任务管理
 3. **[购物车系统](03-shopping-cart.md)** - 带折扣、税费和结账的电商购物车
+4. **[图书馆管理系统](04-library-system.md)** - 图书借阅、归还、罚款和会员管理
+5. **[URL缩短服务](05-url-shortener.md)** - 带分析和过期功能的链接缩短
+6. **[文件存储系统](06-file-storage-system.md)** - 文件上传、版本控制、分享和权限
+7. **[聊天系统](07-chat-system.md)** - 带房间、在线状态和通知的实时消息
+8. **[任务调度器](08-task-scheduler.md)** - 带依赖、监控和cron支持的作业调度
 
 ## 你将学到什么
 

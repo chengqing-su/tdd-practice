@@ -7,6 +7,11 @@ Welcome to the easy level problems! These are perfect for TDD beginners who want
 1. **[FizzBuzz](01-fizzbuzz.md)** - Classic programming problem perfect for learning TDD basics
 2. **[Palindrome Checker](02-palindrome.md)** - String manipulation and edge case handling
 3. **[Simple Calculator](03-calculator.md)** - Class design and error handling
+4. **[Word Count](04-word-count.md)** - Text analysis and statistical calculations
+5. **[Leap Year Calculator](05-leap-year.md)** - Boolean logic and mathematical rules
+6. **[Number to Words Converter](06-number-to-words.md)** - Number parsing and string generation
+7. **[Roman Numerals Converter](07-roman-numerals.md)** - Bidirectional conversion and historical systems
+8. **[Password Validator](08-password-validator.md)** - Input validation and security rules
 
 ## What You'll Learn
 
@@ -40,6 +45,11 @@ Once you're comfortable with these problems, move on to [Medium Level](../medium
 1. **[FizzBuzz](01-fizzbuzz.md)** - 经典编程问题，完美的TDD基础学习
 2. **[回文检查器](02-palindrome.md)** - 字符串操作和边界情况处理
 3. **[简单计算器](03-calculator.md)** - 类设计和错误处理
+4. **[单词统计](04-word-count.md)** - 文本分析和统计计算
+5. **[闰年计算器](05-leap-year.md)** - 布尔逻辑和数学规则
+6. **[数字转文字转换器](06-number-to-words.md)** - 数字解析和字符串生成
+7. **[罗马数字转换器](07-roman-numerals.md)** - 双向转换和历史系统
+8. **[密码验证器](08-password-validator.md)** - 输入验证和安全规则
 
 ## 你将学到什么
 
